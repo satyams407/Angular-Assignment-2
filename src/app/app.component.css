@@ -1,0 +1,10 @@
+#maindiv{
+  background-image: url(../assets/bg.jpg);
+  width: auto;
+  height: auto;
+}
+
+#heading{
+  font-weight: bold;
+
+}

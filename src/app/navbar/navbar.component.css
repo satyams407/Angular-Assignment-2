@@ -1,0 +1,30 @@
+#login-email{
+  padding: 2px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+#bs-example-navbar-collapse-2{
+  size: auto;
+}
+
+#logo{
+  float: left;
+  margin-left: 20px;
+}
+
+#password{
+  padding: 2px;
+}
+#forgotpassword{
+  margin-left: 10px;
+  padding: 2px;
+}
+
+#heading{
+  float: left;
+  margin: 10px;
+  width:auto;
+  height:15px;
+  size: 30px;
+}
